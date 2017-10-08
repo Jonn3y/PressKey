@@ -3,6 +3,11 @@ A little programm to simulate keystrokes using input-parameters for Elgato Strea
 
 
 
+[DOWNLOAD SERVER/CLIENT](https://github.com/Jonn3y/PressKey/releases/download/v1.0/PressKeyv1.0.exe.zip)
+
+
+
+# HowToUse
 
 1. Start Server -  you can move it to the autostart-folder (there will nothing happen. The server runs in background without any GUI)
   
