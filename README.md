@@ -33,6 +33,6 @@ These Keys are not working (with german keyboard layout) at the moment:
 ü
 
 
-PS: Im using it to write emotes to some lovely [Twitch-Channels]:https://twitch.tv/fxjonny3000
+PS: Im using it to write emotes to some lovely [Twitch-Channels]:(https://twitch.tv/fxjonny3000)
 
 08.Oct.2017
