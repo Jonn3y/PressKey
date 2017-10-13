@@ -1,3 +1,5 @@
+Note: That's my first C++ program. Don't judge me for maybe messy/bad code =P 
+
 # PressKey
 A little programm to simulate keystrokes using input-parameters for Elgato Stream Deck
 
